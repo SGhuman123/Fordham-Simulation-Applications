@@ -1,0 +1,4 @@
+method,var_mean_pct,var_se_pct,es_mean_pct,es_se_pct,ms_per_run,var_variance_reduction,es_variance_reduction
+Plain Monte Carlo,2.5248,0.0396,2.8824,0.0468,0.4092,1.0,1.0
+Antithetic variates,2.5237,0.0406,2.8839,0.0457,0.3303,0.9533,1.0515
+Importance sampling,2.5263,0.0066,2.8894,0.0045,1.0279,35.7948,107.031

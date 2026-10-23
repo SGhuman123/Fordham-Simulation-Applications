@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# WRDS data is licensed: never commit raw downloads or row-level outputs.
+portfolio-var-volatility-regimes/data/
+portfolio-var-volatility-regimes/results/**/forecasts.parquet
+
+portfolio-var-volatility-regimes/results/synthetic/
